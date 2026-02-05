@@ -4,7 +4,8 @@ import java.util.Scanner;
 public class ft_inches_to_cm {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// 
+		
 		   int feet=0; //variable to store feet
 		   int inches=0; //variable to store inches
 		   int totalInches=0; //variable to store total inches
