@@ -11,7 +11,7 @@ public class Gn {
         int max = 100;
       
         
-        Random rand = new Random();
+        
         int randomNum = (int)(Math.random() * (max - min + 1) + min);
 		
 		
