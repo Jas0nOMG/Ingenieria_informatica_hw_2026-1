@@ -3,7 +3,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 public class Gn {
-
+//ll
 	public static void main(String[] args) {
 		
 		int guess=0;
