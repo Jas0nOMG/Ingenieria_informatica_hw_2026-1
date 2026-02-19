@@ -1,7 +1,7 @@
 package principal;
 import java.util.ArrayList;
 public class Ejercicio1 {
-
+//l
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		// 1. Create an ArrayList of String type named 'frutas'
